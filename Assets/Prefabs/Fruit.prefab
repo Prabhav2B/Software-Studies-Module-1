@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 767428849408375253}
   - component: {fileID: 767428849408375242}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96,7 +96,7 @@ GameObject:
   - component: {fileID: 767428849532666134}
   - component: {fileID: 7917561242868678682}
   - component: {fileID: 4427756770629915370}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Fruit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -148,8 +148,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"FruitSpawner","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &4427756770629915370
 MonoBehaviour:
